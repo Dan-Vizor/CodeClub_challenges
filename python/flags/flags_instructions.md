@@ -11,6 +11,3 @@ Create a python program that draws flags of varying countries with the user bein
 
 ### Notes:
 For this project you can use whichever libraries you feel most comfortable with.
-
-## Examples:
-! [error loading image][test.jpg]
