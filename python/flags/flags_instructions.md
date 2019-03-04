@@ -13,4 +13,4 @@ Create a python program that draws flags of varying countries with the user bein
 For this project you can use whichever libraries you feel most comfortable with.
 
 #H2 Examples:
-![error loading image][test/jpg]
+![error loading image][test.jpg]
