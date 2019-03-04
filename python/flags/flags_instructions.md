@@ -1,4 +1,4 @@
-#Flags - instructions
+# Flags - instructions
 ## Task:
 Create a python program that draws flags of varying countries with the user being able to select which flag to draw.
 
