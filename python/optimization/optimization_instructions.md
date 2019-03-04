@@ -1,4 +1,4 @@
-#Optimization - instructions
+# Optimization - instructions
 ## Task:
 Edit the Bits2Bytes.py file to be as small as possible without losing any functionality.
 
